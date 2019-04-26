@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>京东手机（动态爬取）</title>
+    <style type="text/css">
+        .JD{
+            border: 1px solid;
+            margin:auto;
+            text-align:center;
+        }
+        .JD th{
+            padding-top: 10px;
+            padding-bottom: 10px;
+            font-size: 25px;
+            font-family: Verdana;
+            color: #CAE1FF;
+            background-color: #EE0000
+        }
+        .JD td{
+            padding-top: 7px;
+            padding-bottom: 7px;
+            border: 1px solid #429fff;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">爬取数据展示区（动态）</h1>
+    <br>
+    <table class="JD">
+        <tr>
+            <th>ID</th>
+            <th>图片</th>
+            <th>品牌</th>
+            <th>价格</th>
+            <th>简介</th>
+            <th>评价条数</th>
+        </tr>
+            {% for line in JD%}
+                <tr>
+                <td>{{forloop.counter}}</td>
+                <td><img src="{{line.图片}}"></td>
+                <td>{{line.品牌}}</td>
+                <td>￥{{line.价格}}</td>
+                <td>{{line.简介}}</td>
+                <td>{{line.评价条数}}</td>
+                </tr>
+            {% endfor %}
+    </table>
+</body>
+</html>
