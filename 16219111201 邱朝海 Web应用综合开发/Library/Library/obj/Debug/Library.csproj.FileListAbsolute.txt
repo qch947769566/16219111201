@@ -1,0 +1,12 @@
+C:\Users\联想\Desktop\多媒体\多媒体大作业\Library\Library\bin\Library.dll.config
+C:\Users\联想\Desktop\多媒体\多媒体大作业\Library\Library\bin\Library.dll
+C:\Users\联想\Desktop\多媒体\多媒体大作业\Library\Library\bin\Library.pdb
+C:\Users\联想\Desktop\多媒体\多媒体大作业\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\联想\Desktop\多媒体\多媒体大作业\Library\Library\obj\Debug\Library.dll
+C:\Users\联想\Desktop\多媒体\多媒体大作业\Library\Library\obj\Debug\Library.pdb
+D:\平时文件\Web应用综合开发\16219111201 邱朝海 Web应用综合开发\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\平时文件\Web应用综合开发\16219111201 邱朝海 Web应用综合开发\Library\Library\obj\Debug\Library.dll
+D:\平时文件\Web应用综合开发\16219111201 邱朝海 Web应用综合开发\Library\Library\obj\Debug\Library.pdb
+D:\平时文件\Web应用综合开发\16219111201 邱朝海 Web应用综合开发\Library\Library\bin\Library.dll.config
+D:\平时文件\Web应用综合开发\16219111201 邱朝海 Web应用综合开发\Library\Library\bin\Library.dll
+D:\平时文件\Web应用综合开发\16219111201 邱朝海 Web应用综合开发\Library\Library\bin\Library.pdb

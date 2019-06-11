@@ -1,0 +1,59 @@
+﻿@charset "utf-8";
+#top{ 
+    clear:both; 
+    margin:0 auto;
+    width:900px; 
+    height:20px; 
+    border:1px solid #97A2AA;
+}
+.status{ 
+    float:left; 
+    width:600px;
+    padding:2px 0 0 16px;
+    font-weight:bolder;
+}
+
+#header{ 
+    clear:both; 
+    width:900px;
+    height:100px;
+    border:1px solid #97A2AA;
+}
+.logo{ 
+    float:left; 
+    width:400px;
+    height: 95px;
+}
+#nav{ 
+    float:right; 
+    width:500px;
+    height:95px;
+}
+#a_b_01{ 
+    text-align:right; 
+    height:34px; 
+    padding:30px 20px 0 0; 
+    font-family:Tahoma;
+}
+		
+/*导航部分*/
+#mainnav{
+    height:60px; 
+}
+#mainnav li{ 
+    float:left; 
+    font:14px/22px Tahoma; 
+    text-align:center; 
+    padding:0 10px; 
+    border-left:1px solid #DDE4E9; 
+    border-bottom:1px solid #ADB9C2;
+}
+
+img{ 
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    vertical-align:middle;
+    height: 95px;
+    width: 139px;
+}

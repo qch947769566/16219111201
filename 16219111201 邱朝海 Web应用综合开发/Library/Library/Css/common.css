@@ -1,0 +1,19 @@
+﻿#tit {
+    text-align:center;
+    height:40px;
+}
+#rep {
+    width:1000px;
+    left:50%;
+    margin-left:-500px;
+    position:relative;
+}
+#tab {
+    width:700px;
+    margin:0 auto;
+    text-align:left;
+    text-size-adjust:initial;
+}
+table td {
+    padding:10px 0 10px 0;
+}

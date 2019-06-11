@@ -1,0 +1,21 @@
+﻿#login {
+    padding-top:20px;
+    text-align:center;
+    margin:auto;
+}
+
+table {
+    margin:auto; 
+    text-align:center;
+    width:350px;
+    height:200px;
+    border:1px dotted;
+}
+tr {
+    height:30px;
+}
+#lg1 {
+    background-color: silver; 
+    text-align: center;
+    height:35px;   
+}
